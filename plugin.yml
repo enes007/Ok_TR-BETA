@@ -1,0 +1,6 @@
+name: [MGM-OK]
+description: Okçuluk Yarışması
+main: ok\ok_tr\merkez
+author: Enes Özdemir
+version: 1.0.0
+api: [1.8.0]
