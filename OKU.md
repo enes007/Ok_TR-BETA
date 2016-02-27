@@ -1,0 +1,3 @@
+# Ok_TR-BETA
+# plugin yapılıyor
+# ben öğrendikten sonra kolaylaştırıp youtube kanalımda anlatıcam inşallah...
