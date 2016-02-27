@@ -14,13 +14,6 @@ class merkez extends PluginBase implements Listener{
  //Devre Dışı Kaldığında Yapılıcaklar
  public function onDisable(){
  $this->getLogger()->info("× "."[Okçu_TR] Eklenti Devre Dışı."); 
- }
-
-
-
-
-
-
-
-
+ } 
+ 
 }
